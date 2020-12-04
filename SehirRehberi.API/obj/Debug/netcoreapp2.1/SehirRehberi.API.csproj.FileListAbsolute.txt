@@ -5,7 +5,6 @@ C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\bin\Debug\netcoreapp2.1\S
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.runtimeconfig.dev.json
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.dll
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.pdb
-C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.csprojAssemblyReference.cache
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfoInputs.cache
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfo.cs
 C:\Users\MK\source\repos\SehirRehberi\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.csproj.CoreCompileInputs.cache

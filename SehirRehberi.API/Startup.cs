@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using SehirRehberi.API.Data;
+using SehirRehberi.API.Helpers;
 using System.Text;
 
 namespace SehirRehberi.API
@@ -27,7 +28,7 @@ namespace SehirRehberi.API
         public void ConfigureServices(IServiceCollection services)
         {
             var key = Encoding.ASCII.GetBytes(Configuration.GetSection("Appsettings:Token").Value);
-
+            services.Configure<CloudinarySettings>(Configuration.GetSection("CloudinarySettings"));
             services.AddDbContext<DataContext>(b =>
                 b.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAutoMapper();
